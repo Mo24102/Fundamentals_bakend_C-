@@ -1,0 +1,14 @@
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\Fundamentals_bakend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\Fundamentals_bakend.AssemblyInfoInputs.cache
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\Fundamentals_bakend.AssemblyInfo.cs
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\Fundamentals_bakend.csproj.CoreCompileInputs.cache
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\Fundamentals_bakend.exe
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\Fundamentals_bakend.deps.json
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\Fundamentals_bakend.runtimeconfig.json
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\Fundamentals_bakend.dll
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\Fundamentals_bakend.pdb
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\Fundamentals_bakend.dll
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\refint\Fundamentals_bakend.dll
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\Fundamentals_bakend.pdb
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\Fundamentals_bakend.genruntimeconfig.cache
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\ref\Fundamentals_bakend.dll

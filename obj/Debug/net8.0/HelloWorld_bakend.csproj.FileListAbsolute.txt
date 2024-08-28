@@ -1,0 +1,14 @@
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\HelloWorld_bakend.exe
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\HelloWorld_bakend.deps.json
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\HelloWorld_bakend.runtimeconfig.json
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\HelloWorld_bakend.dll
+F:\Users\m\HelloWorld_bakend\bin\Debug\net8.0\HelloWorld_bakend.pdb
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\HelloWorld_bakend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\HelloWorld_bakend.AssemblyInfoInputs.cache
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\HelloWorld_bakend.AssemblyInfo.cs
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\HelloWorld_bakend.csproj.CoreCompileInputs.cache
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\HelloWorld_bakend.dll
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\refint\HelloWorld_bakend.dll
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\HelloWorld_bakend.pdb
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\HelloWorld_bakend.genruntimeconfig.cache
+F:\Users\m\HelloWorld_bakend\obj\Debug\net8.0\ref\HelloWorld_bakend.dll
